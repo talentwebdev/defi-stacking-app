@@ -18,3 +18,5 @@ Get balance of account
 balance = await tether.balanceOf(accounts[1])
 convertBalance = web3.utils.fromWei(balance)
 ```
+
+## Setting up truffle tests
